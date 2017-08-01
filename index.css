@@ -5,6 +5,8 @@ header {
 
 body {
 font-family: Times New Roman sans-serif;
+width: 980px;
+margin: 0;
 }
 h1 {
     font-size: 80pt;
