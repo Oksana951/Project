@@ -78,7 +78,7 @@ h2 {
 
 .images-top {
     display: block;
-    width: 100%;
+    width: 50%;
     height: auto;
    
 }
@@ -90,7 +90,7 @@ h2 {
     right: 0;
     background-color: #008CBA;
     overflow: hidden;
-    width: 100%;
+    width: 50%;
     height:0;
     transition: .5s ease;
 }
@@ -124,7 +124,7 @@ h2 {
 
 .images-dnister {
     display: block;
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
@@ -135,7 +135,7 @@ h2 {
     right:0;
     background-color: #008CBA;
     overflow: hidden;
-    width: 100%;
+    width: 50%;
     height:0;
     transition: .5s ease;
 }
@@ -169,7 +169,7 @@ h2 {
 
 .images-felichita {
     display: block;
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
@@ -180,7 +180,7 @@ h2 {
     right:0;
     background-color: #008CBA;
     overflow: hidden;
-    width: 100%;
+    width: 50%;
     height:0;
     transition: .5s ease;
 }
